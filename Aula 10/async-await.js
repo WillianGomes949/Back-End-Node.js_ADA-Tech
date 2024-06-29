@@ -11,4 +11,4 @@ const resultado = new Promise((resolve, reject) => {
   .catch((error) => console.log("Ocoreu um erro!"));
 
 console.log(resultado);
-console.log("Consegui executar");
+console.log("seguir o fluxo do programa sem quebrar");
